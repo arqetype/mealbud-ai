@@ -34,7 +34,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "tailwindcss": "^4.0.8",
+    "tailwindcss": "^4.1.11",
     "typescript": "^5.8.2"
   },
   "exports": {
