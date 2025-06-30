@@ -5,7 +5,7 @@
   "type": "module",
   "devDependencies": {
     "@jest/types": "^29.6.3",
-    "jest": "^29.7.0"
+    "jest": "^30.0.3"
   },
   "publishConfig": {
     "access": "public"
