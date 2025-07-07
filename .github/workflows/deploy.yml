@@ -14,7 +14,7 @@ concurrency:
 jobs:
   deploy:
     name: '🚀 Deploy Pipeline'
-    runs-on: ubuntu-latest
+    runs-on: weaver-runner
     steps:
       - name: 🧾 Checkout code
         uses: actions/checkout@v4
