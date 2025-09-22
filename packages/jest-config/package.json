@@ -4,8 +4,8 @@
   "private": true,
   "type": "module",
   "devDependencies": {
-    "@jest/types": "^30.0.1",
-    "jest": "^30.0.4"
+    "@jest/types": "^30.0.5",
+    "jest": "^30.1.3"
   },
   "publishConfig": {
     "access": "public"
